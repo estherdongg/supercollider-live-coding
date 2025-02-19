@@ -1,10 +1,10 @@
 
 
-# SuperCollider Live Coding Patch 🎶
+# SuperCollider Live Coding
 
 ## Overview
 
-This project is a **live coding performance patch** written in **SuperCollider**, inspired by [[Sungmin Park](https://youtube.com/@sungminpark?si=FhgQUVAWrwmJTJcQ)]. It features a modular approach to generating musical patterns, including bass, arpeggios, pads, leads, and drums, synchronized via a custom clock system. The project is designed to showcase creative sound design and live coding workflows for experimental and performance purposes.
+This project is a **live coding performance patch** written in **SuperCollider**, inspired by [[Sungmin Park](https://github.com/byulparan)]. It features a modular approach to generating musical patterns, including bass, arpeggios, pads, leads, and drums, synchronized via a custom clock system. The project is designed to showcase creative sound design and live coding workflows for experimental and performance purposes.
 
 
 ## Features
